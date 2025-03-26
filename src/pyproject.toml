@@ -2,7 +2,7 @@
 name = "graphiti"
 version = "0.1.0"
 description = "Zep Graphiti"
-authors = ["AI Ops <platform-aiops@zenjob.com>"]
+authors = ["EM <test@test.com>"]
 readme = "README.md"
 packages = [{include = "app"}]
 package-mode = false
